@@ -1,2 +1,3 @@
 # Magnet-Crush
- Simple CrispGameLib prototype for AGPM 170
+ Magnet Crush by Nathan Wang
+ To play, go to https://nathanwang00.github.io/Magnet-Crush/?magnetcrush/
