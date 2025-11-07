@@ -370,7 +370,7 @@ function update() {
 				play("laser");
 			}
 			
-			// on block
+			// On block
 			if (!d.isShot && d.isPulled) { 
 				player.pullCount -= 1;
 			}
