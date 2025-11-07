@@ -198,7 +198,7 @@ function update() {
 			}
 			player.velocity.x = player.moveSpeed * Math.cos(player.pos.angleTo(input.pos)) / (player.pullCount / 4 + 1);
 			player.velocity.y = player.moveSpeed * Math.sin(player.pos.angleTo(input.pos)) / (player.pullCount / 4 + 1);
-			//clamp and add if anything else moves the player
+			// clamp and add if anything else moves the player
 		} else {
 			player.velocity = vec(0, 0);
 		}
